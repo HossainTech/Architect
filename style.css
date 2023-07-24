@@ -1,0 +1,15 @@
+.main-container{
+    padding:50px 100px 50px 100px;
+    
+    
+}
+
+.main-menu ul li{
+    display: inline;
+}
+.main-menu ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #424242;
+    margin-left: 20px;
+}
